@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-M-Youssef
+- 👋 Hi, I’m @AhmedMaged
 - 👀 I’m interested in Data Analysis and Embedded systems
 - 🌱 I’m currently learning Udacity Data Analysis Advanced Nanodegree
 - 💞️ I’m looking to collaborate on project
